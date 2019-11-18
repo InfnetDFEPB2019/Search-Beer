@@ -1,4 +1,4 @@
-# Comer Bem
+# Beber Bem
 O sistema <b>ComerBem </b> será uma aplicação para entender o humor do usuário e indicar uma vitamina para manter ou melhorar o bem estar do usuário.
 
 Com as diversas opções de aparelhos tecnológicos no mercado, tomaremos o cuidado de elaborar um aplicativo totalmente __ responsivo__, que poderá ser utilizado em todas as plataformas tecnológica.
