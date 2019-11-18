@@ -10,7 +10,7 @@ Membros: Eloy Barbosa, Henrique Milioli, Carlos Williams, Victor Manuel
 APIs públicas que serão utilizadas:
 
 links de API de cervejas:
-https://api.punkapi.com/v2/beers/200
+https://punkapi.com/documentation/v2
 
 
 links de APIs de cervejarias:
