@@ -7,7 +7,7 @@ O sistema visa ser um aplicação simples e útil para os amantes de cervejas.
 
 Membros: Eloy Barbosa, Henrique Milioli, Carlos Williams, Victor Manuel
 
-**APIs públicas que serão utilizadas:
+APIs públicas que serão utilizadas:
 
 links de API de cervejas:
 https://api.punkapi.com/v2/beers/200
